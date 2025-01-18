@@ -1,15 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.mohamed.barki.abomokbelmaths",
-      "sha256_cert_fingerprints": [
-        "F4:85:25:58:6C:0F:85:A5:14:8E:41:06:13:B5:B4:DC:FA:10:9E:A1:00:99:AC:AB:5D:22:73:FC:F5:BB:8D:01"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mohamed.barki.abomokbelmaths",
+    "sha256_cert_fingerprints":
+    ["ED:0E:E6:8F:FC:01:53:D2:8E:DE:28:67:9E:94:1F:C4:93:C7:C4:4D:A8:AE:F6:3F:65:92:D7:01:53:4B:21:10"]
   }
-]
+}]
