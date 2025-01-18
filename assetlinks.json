@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mohamed.barki.abomokbelmaths",
-    "sha256_cert_fingerprints":
-    ["ED:0E:E6:8F:FC:01:53:D2:8E:DE:28:67:9E:94:1F:C4:93:C7:C4:4D:A8:AE:F6:3F:65:92:D7:01:53:4B:21:10"]
-  }
-}]
